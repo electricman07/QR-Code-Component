@@ -39,10 +39,6 @@ This is a project from Frontend Mentor that allows me to practice my HTML and CS
 
 I learned how to create a card using HTML and styled with CSS. I used flexbox to center the main body as well as to center the QR code image and text blocks. I also used a media query to set the large screen width so that it is responsive.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Useful resources
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This helped me with the finer details of using flexbox.
