@@ -25,7 +25,7 @@ This is a project from Frontend Mentor that allows me to practice my HTML and CS
 ### Links
 
 - Solution URL: [Source Code](https://github.com/electricman07/QR-Code-Component)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://qr-code-component-coral-five.vercel.app/)
 
 ## My process
 
